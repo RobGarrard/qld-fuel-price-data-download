@@ -1,0 +1,7 @@
+pyspark
+requests
+bs4
+boto3
+
+
+
